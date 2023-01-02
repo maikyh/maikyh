@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **miguelgrza.12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MODfwtKSh-fGbT4JMmBTM2iq_5_Ik4PV/view?usp=sharing](https://drive.google.com/file/d/1MODfwtKSh-fGbT4JMmBTM2iq_5_Ik4PV/view?usp=sharing)
-
 - 💪 Fun fact **Zero Sugar**
 
 <h3 align="left">Connect with me:</h3>
