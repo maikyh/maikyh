@@ -1,6 +1,6 @@
 <h1 align="center"> What's up, it's Miguel Garza 😎</h1>
 <h3 align="center">A student with strong passion for web development, in learning new technologies and a competitive programming enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bFfx1.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 - 🔭 I’m currently working on [my Portfolio Website](https://maikyh.github.io/miguel-garza)
 
