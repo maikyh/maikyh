@@ -1,6 +1,6 @@
 <h1 align="center"> What's up, it's Miguel Garza 😎</h1>
 <h3 align="center">A student with strong passion for web development, in learning new technologies and a competitive programming enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com.mx/pin/392868767495353889/">
+<img align="right" alt="Coding" width="400" src="![gatitooto](https://user-images.githubusercontent.com/98727536/210213754-6205a38a-5d11-41f0-8ee4-507fb132e6af.gif)">
 
 - 🔭 I’m currently working on [my Portfolio Website](https://maikyh.github.io/miguel-garza)
 
